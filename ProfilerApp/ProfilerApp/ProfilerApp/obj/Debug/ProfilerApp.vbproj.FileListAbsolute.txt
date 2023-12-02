@@ -1,0 +1,69 @@
+c:\users\user\documents\visual studio 2015\Projects\ProfilerApp\ProfilerApp\bin\Debug\ProfilerApp.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ProfilerApp\ProfilerApp\bin\Debug\ProfilerApp.exe
+c:\users\user\documents\visual studio 2015\Projects\ProfilerApp\ProfilerApp\bin\Debug\ProfilerApp.pdb
+c:\users\user\documents\visual studio 2015\Projects\ProfilerApp\ProfilerApp\bin\Debug\ProfilerApp.xml
+c:\users\user\documents\visual studio 2015\Projects\ProfilerApp\ProfilerApp\bin\Debug\MySql.Data.dll
+c:\users\user\documents\visual studio 2015\Projects\ProfilerApp\ProfilerApp\bin\Debug\MySql.Data.Entity.dll
+c:\users\user\documents\visual studio 2015\Projects\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.exe
+c:\users\user\documents\visual studio 2015\Projects\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.xml
+c:\users\user\documents\visual studio 2015\Projects\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.pdb
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\ProfilerApp.exe.config
+D:\VB\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.exe
+D:\VB\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.xml
+D:\VB\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.pdb
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\ProfilerApp.exe
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\ProfilerApp.pdb
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\ProfilerApp.xml
+D:\VB\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.vbprojResolveAssemblyReference.cache
+D:\VB\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.Form1.resources
+D:\VB\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.Resources.resources
+D:\VB\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.vbproj.GenerateResource.Cache
+D:\VB\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.regform.resources
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\MySql.Data.dll
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\MySql.Data.EntityFramework.dll
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\MySql.Web.dll
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\Google.Protobuf.dll
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\ZstdNet.dll
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\BouncyCastle.Crypto.dll
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\Ubiety.Dns.Core.dll
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\System.Buffers.dll
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\K4os.Compression.LZ4.dll
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\K4os.Hash.xxHash.dll
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\MySql.Data.xml
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\MySql.Data.EntityFramework.xml
+D:\VB\ProfilerApp\ProfilerApp\bin\Debug\MySql.Web.xml
+D:\VB\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.vbproj.ProfilerApp.exe.config
+D:\VB\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.Main.resources
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.vbproj.AssemblyReference.cache
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.exe.config
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.exe
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.xml
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.pdb
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\bin\Debug\ProfilerApp.exe.config
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\bin\Debug\ProfilerApp.exe
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\bin\Debug\ProfilerApp.pdb
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\bin\Debug\ProfilerApp.xml
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\bin\Debug\Google.Protobuf.dll
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\bin\Debug\ZstdNet.dll
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\bin\Debug\System.Buffers.dll
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\bin\Debug\MySql.Data.xml
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\bin\Debug\MySql.Web.xml
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.Form1.resources
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.Main.resources
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.Resources.resources
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.regform.resources
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.vbproj.GenerateResource.cache
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.vbproj.CoreCompileInputs.cache
+C:\Users\cytwo\Downloads\ProfilerApp\ProfilerApp\ProfilerApp\obj\Debug\ProfilerApp.vbproj.CopyComplete
